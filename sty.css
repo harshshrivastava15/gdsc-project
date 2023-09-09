@@ -551,13 +551,3 @@ nav img{
     color: #515151;
     border-left-color: rgb(255, 0, 0) ;  
 }
-.footer{
-    position: relative;
-    background-image: url("Rectangle 277.png") ;
-    background-repeat: no-repeat;
-    width: 90%;
-    height: 50vh;
-    border-top-left-radius: 50px;
-    border-top-right-radius: 50px;
-
-}
